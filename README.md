@@ -8,5 +8,5 @@ Practica de maquetación emulando el diseño de Pinterest.
 * Se aplico una regla de **Medica Query** para modificar adaptar el menu en resoluciones menores a 1000px.
 
 ## Resultado y enlace directo.
-<center>https://daniektj.github.io/Pinterest-Layout/</center>
+https://daniektj.github.io/Pinterest-Layout/
 ![](images/pinterest-screenshot.jpg)
