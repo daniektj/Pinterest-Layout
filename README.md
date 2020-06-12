@@ -7,4 +7,6 @@ Practica de maquetación emulando el diseño de Pinterest.
 * El efecto de **Masonry** fue resuelto con columnas.
 * Se aplico una regla de **Medica Query** para modificar adaptar el menu en resoluciones menores a 1000px.
 
+## Resultado y enlace directo.
+https://daniektj.github.io/Pinterest-Layout/
 ![](images/pinterest-screenshot.jpg)
